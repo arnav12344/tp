@@ -287,7 +287,7 @@ _{more aspects and alternatives to be added}_
 
 **Target user profile**: University students who
 
-*  want to make friends and grow their professional networks by having an all-in-one platform that consolidates all the information (contact details, interests, academic backgrounds and work experience).
+*  want to make friends and grow their professional networks by having an all-in-one platform that consolidates all the information (contact details, interests, birthday, academic backgrounds and work experience).
 * prefer desktop apps over other types
 * can type fast
 * prefers typing to mouse interactions
@@ -300,15 +300,15 @@ _{more aspects and alternatives to be added}_
 
 Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unlikely to have) - `*`
 
-| Priority | As a …​                     | I want to …​                                                          | So that I can…​                                            |
-|----------|-----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
-| `* * *`  | university student          | add a new contact with basic details like name, university, and major | start building my professional network from school         |
-| `* * *`  | university student          | delete a contact from my network                                      | keep my contact list clean and up-to-date                  |
-| `* * *`  | university student          | search for contacts by their university                               | quickly find peers from the same university                |
-| `* * *`  | university student          | search for contacts by their major                                    | connect with peers in the same academic field              |
-| `* * *`  | aspiring university student | add internship or work experience to a contact                        | network with people who have relevant industry experience  |
-| `* *`    | lonely university student   | add interests and hobbies to a contact                                | remember what we have in common                            |
-| `*`      | sociable university student | add social media links (e.g., LinkedIn, Instagram) to a contact       | connect with people on other social platforms              |
+| Priority | As a …​                     | I want to …​                                                                    | So that I can…​                                            |
+|----------|-----------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|
+| `* * *`  | university student          | add a new contact with basic details like name, birthday, university, and major | start building my professional network from school         |
+| `* * *`  | university student          | delete a contact from my network                                                | keep my contact list clean and up-to-date                  |
+| `* * *`  | university student          | search for contacts by their university                                         | quickly find peers from the same university                |
+| `* * *`  | university student          | search for contacts by their major                                              | connect with peers in the same academic field              |
+| `* * *`  | aspiring university student | add internship or work experience to a contact                                  | network with people who have relevant industry experience  |
+| `* *`    | lonely university student   | add interests and hobbies to a contact                                          | remember what we have in common                            |
+| `*`      | sociable university student | add social media links (e.g., LinkedIn, Instagram) to a contact                 | connect with people on other social platforms              |
 
 
 ---
@@ -330,7 +330,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 3. Use case ends.
 
 **Extensions**
-- **1a**: The Name/Email/Phone Number/Address/University/Major of contact has an invalid format.
+- **1a**: The Name/Email/Phone Number/Address/University/Major/Birthday of contact has an invalid format.
     - **1a1**: UniVerse displays an error message.
     - **1a2**: Use case resumes at step 1.
 
