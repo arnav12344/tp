@@ -61,8 +61,12 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data",
+        "commands-to-test": "Commands to Test",
+        "1-adding-interests-addi": "1. Adding Interests: addi",
+        "2-adding-work-experience-addw": "2. Adding Work Experience: addw",
+        "3-finding-contacts-by-interest-findi": "3. Finding Contacts by Interest: findi",
+        "4-finding-contacts-by-work-experience-findw": "4. Finding Contacts by Work Experience: findw",
+        "5-finding-contacts-by-major-findm": "5. Finding Contacts by Major: findm",
         "appendix-effort": "Appendix: Effort"
       },
       "headingKeywords": {}
@@ -142,6 +146,7 @@
     },
     {
       "src": "team/chenle.md",
+      "title": "Chen Le's Project Portfolio Page",
       "headings": {
         "project-universe": "Project: UniVerse"
       },
@@ -156,10 +161,10 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/vera.md",
+      "title": "Vera's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-universe": "Project: UniVerse"
       },
       "headingKeywords": {}
     }
