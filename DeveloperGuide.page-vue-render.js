@@ -551,6 +551,6 @@ with(this){return _c('p',[_c('strong',[_v("Achievements")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_v("The project successfully extended the original AB3 with functionality focused on university students' needs, balancing ease of use and powerful data organization.")]),_v(" "),_c('li',[_v("Careful planning and rigorous testing ensured the new features did not introduce regressions or instability.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 7:02:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 10 Nov 2024, 16:01:47 GMT+8]")])])])}
 }];
   
